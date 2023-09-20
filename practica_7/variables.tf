@@ -37,3 +37,9 @@ variable "enable_monitoring" {
   description = "Habilita el despliegue de un servidor de monitoreo"
   type = bool
 }
+
+variable "access_key" {
+}
+
+variable "secret_key" {
+}
